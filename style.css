@@ -1,0 +1,39 @@
+h1 {
+
+	text-align: left;
+	color: white;
+
+}
+
+.a {
+
+	text-align-last: right;
+
+}
+
+a{
+
+	color: white;
+	text-decoration: none;
+}
+
+body {
+
+background-image: url("pic.jpeg");
+background-size: 90%;
+color: white;
+
+}
+
+p {
+
+	text-align: right;
+	color: white;
+}
+
+.p {
+
+	text-align: right;
+	color: white;
+
+}
