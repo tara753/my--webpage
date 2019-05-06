@@ -6,12 +6,12 @@ h1 {
 }
 
 .a {
-
+	color: white;
+	text-decoration: none;
 	text-align-last: right;
-
 }
 
-a{
+a {
 
 	color: white;
 	text-decoration: none;
@@ -25,11 +25,6 @@ color: white;
 
 }
 
-p {
-
-	text-align: right;
-	color: white;
-}
 
 .p {
 
